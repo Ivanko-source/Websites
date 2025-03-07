@@ -1,0 +1,103 @@
+
+ tags
+ h1-h6
+p title
+br
+hr line
+b = fat text u em s
+sub sup
+abbr title
+adress
+big small
+pre for code
+ol ordered list
+ul unordered list in list
+atributes title LANGuage
+a
+<a>name=bottom
+        <p title="Example text"> Cessna</p><hr>
+        <a href="#bottom">Вниз</a><br><br>
+        <a href="blank.html" target="_self">Jet Forum</a>
+        <a name="bottom"></a><br><br>
+        <a href="mailto:ikrishtop132@gmail.com">Our Email Adress</a>
+<img src="">
+table rhead tbody tfoot
+td th tr
+            <tr>
+                <th>
+                    Our Pilots
+                </th>
+            </tr>
+            <tr>
+                <td>
+                    Ivanko
+                </td>
+            <tr>                <td>
+                Vitka
+            </td></tr>
+
+            </tr>
+            link
+            div span
+            form action method
+            label for
+            input type value placeholder maxlength hidden disabled readonly on... name id type password email url color date time datetime checkbox radio checked file required button type
+            select
+<form action=""><select name="" id="">
+            <option>Ditor</option>
+            <option>Mobil</option>
+            <option>Phwkm</option>
+            <option>DHYAT</option>
+        </select></form>
+        disabled multiple size
+        header
+        nav main
+        aside
+        footer
+        progress max value
+        summary details
+
+
+
+        css
+        p {}
+        b {}
+        color
+        class
+        id
+        ctrl /
+        >
+        text decoration
+        cursor
+        hover active visited an/disabled
+        input
+    focus
+    p.(class) not empty first line
+    content
+    higher level ../
+    background repeat
+    background position
+    background-size cover heigh 100vh 
+    background attachment
+    
+    justify
+    font style
+    p.main-text>b {
+        font-style normal
+    }
+    ligher
+    text tranform
+    line height
+    word spacing
+    letter spacing
+    border dotted dashed solid
+    border radius
+    opacity
+    margin padding
+    * {
+
+    }
+    display
+    position relative fixed
+    z index
+    
